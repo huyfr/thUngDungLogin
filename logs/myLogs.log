@@ -1,0 +1,54 @@
+2020-06-01 15:05:43 TRACE UserController:19 - Vao loadIndex
+2020-06-01 15:05:43 TRACE UserController:22 - Thoat loadIndex
+2020-06-01 15:05:45 TRACE UserController:19 - Vao loadIndex
+2020-06-01 15:05:45 TRACE UserController:22 - Thoat loadIndex
+2020-06-01 15:05:46 TRACE UserController:19 - Vao loadIndex
+2020-06-01 15:05:46 TRACE UserController:22 - Thoat loadIndex
+2020-06-01 15:07:06 TRACE UserController:19 - Vao loadIndex
+2020-06-01 15:07:06 TRACE UserController:22 - Thoat loadIndex
+2020-06-01 15:07:09 TRACE UserController:19 - Vao loadIndex
+2020-06-01 15:07:09 TRACE UserController:22 - Thoat loadIndex
+2020-06-01 15:07:09 TRACE UserController:19 - Vao loadIndex
+2020-06-01 15:07:09 TRACE UserController:22 - Thoat loadIndex
+2020-06-01 15:07:53 TRACE UserController:19 - Vao loadIndex
+2020-06-01 15:07:53 TRACE UserController:22 - Thoat loadIndex
+2020-06-01 15:07:55 TRACE UserController:19 - Vao loadIndex
+2020-06-01 15:07:55 TRACE UserController:22 - Thoat loadIndex
+2020-06-01 15:07:56 TRACE UserController:19 - Vao loadIndex
+2020-06-01 15:07:56 TRACE UserController:22 - Thoat loadIndex
+2020-06-01 15:08:51 TRACE UserController:19 - Vao loadIndex
+2020-06-01 15:08:51 TRACE UserController:22 - Thoat loadIndex
+2020-06-01 15:08:53 TRACE UserController:19 - Vao loadIndex
+2020-06-01 15:08:53 TRACE UserController:22 - Thoat loadIndex
+2020-06-01 15:08:53 TRACE UserController:19 - Vao loadIndex
+2020-06-01 15:08:53 TRACE UserController:22 - Thoat loadIndex
+2020-06-01 15:47:41 TRACE UserController:22 - Vao loadIndex
+2020-06-01 15:47:41 TRACE UserController:25 - Thoat loadIndex
+2020-06-01 15:47:43 TRACE UserController:22 - Vao loadIndex
+2020-06-01 15:47:43 TRACE UserController:25 - Thoat loadIndex
+2020-06-01 15:47:43 TRACE UserController:22 - Vao loadIndex
+2020-06-01 15:47:43 TRACE UserController:25 - Thoat loadIndex
+2020-06-01 15:47:54 TRACE UserController:31 - Vao loadLogin
+2020-06-01 15:47:54 INFO  UserController:41 - Sang trang user.jsp
+2020-06-01 15:47:54 TRACE UserController:42 - Thoat loadLogin
+2020-06-01 15:49:01 TRACE UserController:31 - Vao loadLogin
+2020-06-01 15:49:01 INFO  UserController:35 - Sang trang error.jsp
+2020-06-01 15:49:01 TRACE UserController:36 - Thoat loadLogin
+2020-06-01 15:55:17 TRACE UserController:22 - Vao loadIndex
+2020-06-01 15:55:17 TRACE UserController:25 - Thoat loadIndex
+2020-06-01 15:55:19 TRACE UserController:22 - Vao loadIndex
+2020-06-01 15:55:19 TRACE UserController:25 - Thoat loadIndex
+2020-06-01 15:55:19 TRACE UserController:22 - Vao loadIndex
+2020-06-01 15:55:19 TRACE UserController:25 - Thoat loadIndex
+2020-06-01 15:55:46 TRACE UserController:31 - Vao loadLogin
+2020-06-01 15:55:46 INFO  UserController:41 - Sang trang user.jsp
+2020-06-01 15:55:46 TRACE UserController:42 - Thoat loadLogin
+2020-06-01 16:09:49 TRACE UserController:22 - Vao loadIndex
+2020-06-01 16:09:49 TRACE UserController:25 - Thoat loadIndex
+2020-06-01 16:09:50 TRACE UserController:22 - Vao loadIndex
+2020-06-01 16:09:50 TRACE UserController:25 - Thoat loadIndex
+2020-06-01 16:09:50 TRACE UserController:22 - Vao loadIndex
+2020-06-01 16:09:50 TRACE UserController:25 - Thoat loadIndex
+2020-06-01 16:09:57 TRACE UserController:31 - Vao loadLogin
+2020-06-01 16:09:57 INFO  UserController:41 - Sang trang user.jsp
+2020-06-01 16:09:57 TRACE UserController:42 - Thoat loadLogin
